@@ -109,6 +109,8 @@ Next.js
 </td>
 <td>
 <img src="./images/tailwindcss.png" alt="Tailwind CSS" width="100px"/>
+</td><td>
+<img src="" alt="Shadcn UI" width="100px"/>
 </td>
 <td>
 <img src="./images/radixui.png" alt="Radix UI" width="100px"/>
