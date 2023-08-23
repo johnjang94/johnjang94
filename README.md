@@ -158,6 +158,20 @@ Vercel
 </section>
 <br/>
 <section>
+<h1>Volunteer</h1>
+<div>
+<p>I am currently volunteering as an apprence developer at...<p>
+[Tech Fleet Professional Assocation](https://techfleet.org)
+<img src="./images/tech_fleet.png" alt="Tech Fleet" width="900px"/>
+</div>
+<div style="display: flex">
+<p>Project name:</p>
+<p style="color: blue; margin-left: 5px">K-Block Phase 3</p>
+</div>
+<img src="./images/k-block.png" alt="k-block" width="900px"/>
+</section>
+<br/>
+<section>
 <h1>My Portfolio</h1>
 You can check out my portfolio [here](https://johnjang94.github.io/portfolio/)
 <br/><br/>
