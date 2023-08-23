@@ -1,23 +1,11 @@
 <img src="./images/logo-dark-bg.png" alt="logo" width="20px"/>
-<h1 style="text-align: center">John Jang</h1>
-<table>
-<tr>
-<th style="text-align: center; color: blue;">
-The Designer
-</th>
-<th style="text-align: center; color: green;">
-The Developer
-</th>
-</tr>
-<tr>
-<td>
-<img src="./images//designer.png" alt="designer" width="500px" height="250px"/>
-</td>
-<td>
-<img src="./images//developer.png" alt="developer" width="500px" height="250px"/>
-</td>
-</tr>
-</table>
+
+# John Jang
+
+| The Designer                                                                      | The Developer                                                                       |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| :<img src="./images//designer.png" alt="designer" width="500px" height="250px"/>: | :<img src="./images//developer.png" alt="developer" width="500px" height="250px"/>: |
+
 <br/>
 <p>
 My name is John Jang.<br/>
