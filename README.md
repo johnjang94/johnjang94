@@ -1,5 +1,5 @@
 <img src="./images/logo-dark-bg.png" alt="logo" width="20px"/>
-<h1 style="text-align: center">John Jang</h1>
+<h1 style="padding-left: 250px;">John Jang</h1>
 <table>
 <tr>
 <th style="text-align: center; color: blue;">
@@ -26,134 +26,85 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 
 <section>
 
-<h1 style="text-align: center">My Tech Stack</h1>
-<h2 style="text-align: center"> Languages </h2>
-<div style="margin-left: 250px">
-<table>
-<tr>
-<th style="padding-left: 30px">
-Learned
-</th>
-<th style="margin-left: 30px">
-Learning in Progress
-</th>
-</tr>
-<tr>
-<td>
-<img src="./images/javascript.png" alt="javascript" width="100px"/>
-</td>
-<td>
-<img src="./images/typescript.png" alt="typescript" width="100px"/>
-</td>
-</tr>
-</table>
+<h1 style="padding-left: 230px;">My Tech Stack</h1>
+<h2 style="padding-left: 270px"> Languages </h2>
+<div style="padding-left: 200px; display: flex;">
+<div>
+<p style="padding-left: 30px;">Learned</p>
+<img src="./images/javascript.png" alt="javascript" width="100px" style="border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p>Learning in Progress</p>
+<img src="./images/typescript.png" alt="typescript" width="100px" style="margin-left: 10px;"/>
+</div>
 </div>
 
-<h2 style="text-align: center"> Language Libraries & Frameworks </h2>
-<div style="margin-left: 220px">
-<table>
-<tr style="display: flex">
-<th style="margin-left: 30px">
-React
-</th>
-<th style="margin-left: 40px">
-React Query
-</th>
-<th style="margin-left: 30px">
-JQuery
-</th>
-</tr>
-<tr style="display: flex">
-<td>
-<img src="./images/react.png" alt="react" width="100px"/>
-</td>
-<td>
-<img src="./images/reactquery.png" alt="react query" width="100px"/>
-</td>
-<td>
-<img src="./images/jquery.png" alt="jquery" width="100px"/>
-</td>
-</tr>
-</table>
-<table style="text-align: center; margin-left: 100px;">
-<tr >
-<th>
-Learning in Progress:
-</th>
-</tr>
-<tr>
-<td>
-Next.js
-</td>
-</tr>
-<tr>
-<td>
-<img src="./images/nextjs.png" alt="Next.js" width="100px"/>
-</td>
-</tr>
-</table>
+<h2 style="padding-left: 160px;"> Language Libraries & Frameworks </h2>
+<div style="padding-left: 140px; display: flex;">
+<div>
+<p style="padding-left: 35px;">React</p>
+<img src="./images/react.png" alt="javascript" width="100px" style="border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p style="padding-left: 20px;">React Query</p>
+<img src="./images/reactquery.png" alt="typescript" width="100px" style="margin-left: 10px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p style="padding-left: 35px;">JQuery</p>
+<img src="./images/jquery.png" alt="typescript" width="100px" style="margin-left: 10px;"/>
+</div>
+</div>
+<div style="padding-top: 5px; padding-left: 250px">
+<p>Learning in Progress</p>
+<p style="padding-left: 45px;">Next.js</p>
+<img src="./images/nextjs.png" alt="javascript" width="100px" style="border-radius: 15px; padding-left: 20px;"/>
 </div>
 
-<h2 style="text-align: center"> Languages </h2>
-<div style="margin-left: 150px">
-<table>
-<tr style="display: flex">
-<th style="margin-left: 30px; color: blue;">CSS 3</th>
-<th style="margin-left: 30px; color: skyblue;">Tailwind CSS</th>
-<th style="margin-left: 30px;">Shadcn UI</th>
-<th style="margin-left: 30px; color: darkblue">Radix UI</th>
-</tr>
-<tr style="display: flex">
-<td>
-<img src="./images/css3.png" alt="CSS3" width="100px"/>
-</td>
-<td>
-<img src="./images/tailwindcss.png" alt="Tailwind CSS" width="100px"/>
-</td><td>
-<img src="" alt="Shadcn UI" width="100px"/>
-</td>
-<td>
-<img src="./images/radixui.png" alt="Radix UI" width="100px"/>
-</td>
-</tr>
-</table>
+<h2 style="padding-left: 230px;"> CSS (UI) Libraries </h2>
+<div style="padding-left: 80px; display: flex;">
+<div>
+<p style="padding-left: 30px;">CSS 3</p>
+<img src="./images/css3.jpeg" alt="javascript" width="100px" height="80px" style="border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p style="padding-left: 20px;">Tailwind CSS</p>
+<img src="./images/tailwindcss.png" alt="typescript" width="100px" height="80px" style="margin-left: 10px; border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p style="padding-left: 22px;">Shadcn UI</p>
+<img src="./images/shadcnui.png" alt="typescript" width="100px" height="80px" style="margin-left: 10px; border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px">
+<p style="padding-left: 30px;">Radix UI</p>
+<img src="./images/radixui.png" alt="javascript" width="100px" height="80px" style="margin-left: 10px; border-radius: 15px;"/>
+</div>
 </div>
 
-<h2 style="text-align: center"> Framework </h2>
-<div style="margin-left: 350px">
+<h2 style="padding-left: 235px;"> CSS Framework </h2>
+<div style="margin-left: 270px">
 <p style="margin-left: 20px">Bootstrap</p>
 <img src="./images/bootstrap.png" alt="Bootstrap" width="100px"/>
 </div>
 
-<h2 style="text-align: center"> Framework </h2>
-<div style="margin-left: 300px">
-<table>
-<tr>
-<th style="padding-left: 20px">
-Git
-</th>
-<th style="padding-left: 50px">
-Github
-<th>
-</tr>
-<tr>
-<td>
-<img src="./images/git.png" alt="Git" width="100px"/>
-</td>
-<td>
-<img src="./images/github.png" alt="Github" width="100px"/>
-</td>
-</tr>
-</table>
+<h2 style="padding-left: 240px;"> Version Control </h2>
+<div style="padding-left: 220px; display: flex;">
+<div>
+<p style="padding-left: 40px;">Git</p>
+<img src="./images/git.png" alt="javascript" width="100px" style="border-radius: 15px;"/>
+</div>
+<div style="padding-left: 20px;">
+<p style="padding-left: 35px;">Github</p>
+<img src="./images/github.png" alt="typescript" width="100px" style="margin-left: 10px; border-radius: 15px;"/>
+</div>
 </div>
 
-<h2 style="text-align: center"> Deployment </h2>
-<div style="margin-left: 350px">
+<h2 style="padding-left: 255px;"> Deployment </h2>
+<div style="margin-left: 260px">
 <div>
 <p style="margin-left: 30px">
 Vercel
 </p>
-<img src="./images/vercel.png" alt="vercel" width="100px"/>
+<img src="./images/vercel.svg" alt="vercel" width="100px"/>
 </div>
 </section>
 <br/>
