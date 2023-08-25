@@ -25,9 +25,9 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 </p>
 <section>
 <img src="./images/techstack.png" alt="tech stack" width="900px"/>
-<img src="./images/css_tree.png" alt="CSS stack" width="900px"/>
-<img src="./images/version.png" alt="version control" width="900px"/>
-<img src="./images/deployment.png" alt="vercel" width="900px"/>
+<img src="./images/bg-removed/css_tree.png" alt="CSS stack" width="900px"/>
+<img src="./images/bg-removed/version.png" alt="version control" width="900px"/>
+<img src="./images/bg-removed/deployment.png" alt="vercel" width="900px"/>
 </section>
 <section>
 <h1>My Portfolio</h1>
