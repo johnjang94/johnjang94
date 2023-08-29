@@ -31,7 +31,7 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 </section>
 <section>
 <h1>My Portfolio</h1>
-You can check out my portfolio [here](https://johnjang94.github.io/portfolio/)
+You can check out my portfolio [here](https://www.johnjang.dev/)
 <br/><br/>
 
 ```js
