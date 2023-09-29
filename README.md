@@ -37,6 +37,7 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 <img alt="Dynamic Radix UI Badge" src="https://img.shields.io/badge/logo-radixui-blue?logo=radixui&logoColor=ffffff"><br/>
 <p>API Communication Tools</p>
 <img alt="Dynamic React Query Badge" src="https://img.shields.io/badge/logo-reactquery-blue?logo=reactquery&logoColor=FF4154">
+<img alt="Dynamic JQuery Badge" src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery&logoColor=0769AD">
 <img alt="Dynamic Axios Badge" src="https://img.shields.io/badge/logo-axios-blue?logo=axios&logoColor=5A29E4"><br/>
 <p>Web Browser Communication Tools</p>
 <img alt="Dynamic React Router Badge" src="https://img.shields.io/badge/logo-reactrouter-blue?logo=reactrouter&logoColor=CA4245"><br/>
