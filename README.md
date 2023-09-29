@@ -53,8 +53,8 @@ The most recent project that I have completed is [Kadeaa Blockchain Web Explorer
 This is an open-source project and I am here to share the [full code](https://github.com/techfleetworks/k-block-app)
 </section>
 <section>
-<h1 align="center">My Portfolio</h1>
-You can check out my portfolio [here](https://www.johnjang.dev/)
+<h1 align="center">More About Me</h1>
+You can check out my portfolio (https://www.johnjang.dev/)
 <br/><br/>
 
 ```js
