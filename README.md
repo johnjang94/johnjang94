@@ -47,10 +47,12 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 <img alt="Dynamic Vercel Badge" src="https://img.shields.io/badge/logo-vercel-blue?logo=vercel&logoColor=ffffff">
 </section>
 <section>
-<h1 align="center">Volunteer</h1>
-I am currently volunteering at [Tech Fleet Professional Association](https://github.com/techfleetworks)<br/><br/>
-The most recent project that I have completed is [Kadeaa Blockchain Web Explorer](https://kblock.vercel.app/).<br/>
-This is an open-source project and I am here to share the [full code](https://github.com/techfleetworks/k-block-app)
+<h1 align="center">My Experience</h1>
+I am currently involved in different projects at [Tech Fleet Professional Association](https://github.com/techfleetworks)<br/><br/>
+I have had an opportunity to build a blockchain website called [Kadeaa Blockchain Web Explorer](https://kblock.vercel.app/). Any user who is interested in NFT trades will be able to use this website for the future reference. <br/><br/>
+Another project that I have been involved in is called "Ruminate".<br/>
+This project was kicking off due to a referral from an individual who runs a non-profit organization that helps to lower the poverty rate in the U.S.<br/>
+Website: [Ruminate](https://ruminate.vercel.app/)
 </section>
 <section>
 <h1 align="center">More About Me</h1>
