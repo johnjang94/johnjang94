@@ -44,7 +44,9 @@ I am a UX Designer and a software developer who resides in Canada and  who is pa
 <p>Deployment</p>
 <img alt="Dynamic Github Pages Badge" src="https://img.shields.io/badge/logo-github-blue?logo=github&logoColor=ffffff">
 <img alt="Dynamic Netlify Badge" src="https://img.shields.io/badge/logo-netlify-blue?logo=netlify&logoColor=00C7B7">
-<img alt="Dynamic Vercel Badge" src="https://img.shields.io/badge/logo-vercel-blue?logo=vercel&logoColor=ffffff">
+<img alt="Dynamic Vercel Badge" src="https://img.shields.io/badge/logo-vercel-blue?logo=vercel&logoColor=ffffff"><br/>
+<p>Back-End Tools</p>
+<img alt="Dynamic Firebase Badge" src="https://img.shields.io/badge/logo-rfirebase-yellow?logo=firebase&logoColor=EADDCA"><br/>
 </section>
 <section>
 <h1 align="center">My Experience</h1>
