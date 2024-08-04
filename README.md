@@ -1,61 +1,33 @@
 <img src="./images/logo-dark-bg.png" alt="logo" width="20px"/>
 <h1 align="center">John Jang</h1>
-<table>
-<tr>
-<th style="text-align: center; color: blue;">
-The Designer
-</th>
-<th style="text-align: center; color: green;">
-The Developer
-</th>
-</tr>
-<tr>
-<td>
-<img src="./images/designer.png" alt="designer" width="500px" height="250px"/>
-</td>
-<td>
-<img src="./images/developer.png" alt="developer" width="500px" height="250px"/>
-</td>
-</tr>
-</table>
-<br/>
 <p>
-My name is John Jang.<br/>
-I am a UX Designer and a software developer who resides in Canada and  who is passionate in a) listening to the voices, b) discover the problems that are out there in the digital world, and c) bring out solutions by iterating the ideas from scratch to the production.
+A software developer who is currently developing an emergency helpline (PWA application) for a non-profit organization called Philly Truce in the US. PWA is under construction using...<br/> <img alt="Dynamic Next.js Badge" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=FFFFFF"> <img alt="Dynamic TypeScript Badge" src="https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=a6b6ff"> <img alt="Dynamic React.js Badge" src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB"> <img alt="Dynamic Vite Badge" src="https://img.shields.io/badge/vite-black?logo=vite&logoColor=blue"> <img alt="Dynamic Tailwind CSS Badge" src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&logoColor=06B6D4"> <img alt="Dynamic PWA" src="https://img.shields.io/badge/pwa-white?logo=pwa&logoColor=5A0FC8"> <br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-black?logo=mongodb&logoColor=green"> <img alt="Express.js" src="https://img.shields.io/badge/express-black?logo=express&logoColor=ffffff"> <img alt="Prisma" src="https://img.shields.io/badge/prisma-black?logo=prisma&logoColor=ffffff">
 </p>
 <section>
 <h1 align="center">My Tech Stack</h1>
-<p>Languages & Frameworks</p>
-<img alt="Dynamic JavaScript Badge" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=e8f22e">
-<img alt="Dynamic TypeScript Badge" src="https://img.shields.io/badge/logo-typescript-blue?logo=typescript&logoColor=a6b6ff">
-<img alt="Dynamic React.js Badge" src="https://img.shields.io/badge/logo-react-blue?logo=react&logoColor=61DAFB"><br/>
-<p>Basic Mark-Up Program<p>
-<img alt="Dynamic HTML5 Badge" src="https://img.shields.io/badge/logo-html5-blue?logo=html5&logoColor=E34F26"><br/>
-<p>CSS & CSS Frameworks</p>
-<img alt="Dynamic CSS3 Badge" src="https://img.shields.io/badge/logo-css3-blue?logo=css3&logoColor=1572B6">
-<img alt="Dynamic Tailwind CSS Badge" src="https://img.shields.io/badge/logo-tailwindcss-blue?logo=tailwindcss&logoColor=06B6D4">
-<img alt="Dynamic Radix UI Badge" src="https://img.shields.io/badge/logo-radixui-blue?logo=radixui&logoColor=ffffff"><br/>
-<p>API Communication Tools</p>
-<img alt="Dynamic React Query Badge" src="https://img.shields.io/badge/logo-reactquery-blue?logo=reactquery&logoColor=FF4154">
-<img alt="Dynamic JQuery Badge" src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery&logoColor=0769AD">
-<img alt="Dynamic Axios Badge" src="https://img.shields.io/badge/logo-axios-blue?logo=axios&logoColor=5A29E4"><br/>
-<p>Web Browser Communication Tools</p>
-<img alt="Dynamic React Router Badge" src="https://img.shields.io/badge/logo-reactrouter-blue?logo=reactrouter&logoColor=CA4245"><br/>
-<p>Deployment</p>
-<img alt="Dynamic Github Pages Badge" src="https://img.shields.io/badge/logo-github-blue?logo=github&logoColor=ffffff">
-<img alt="Dynamic Netlify Badge" src="https://img.shields.io/badge/logo-netlify-blue?logo=netlify&logoColor=00C7B7">
-<img alt="Dynamic Vercel Badge" src="https://img.shields.io/badge/logo-vercel-blue?logo=vercel&logoColor=ffffff"><br/>
-<p>Back-End Tools</p>
-<img alt="Dynamic Firebase Badge" src="https://img.shields.io/badge/logo-rfirebase-yellow?logo=firebase&logoColor=EADDCA"><br/>
-</section>
-<section>
-<h1 align="center">My Experience</h1>
-I am currently involved in different projects at [Tech Fleet Professional Association](https://github.com/techfleetworks)<br/><br/>
-I have had an opportunity to build a blockchain website called [Kadeaa Blockchain Web Explorer](https://kblock.vercel.app/). Any user who is interested in NFT trades will be able to use this website for the future reference. <br/><br/>
-Another project that I have been involved in is called "Ruminate".<br/>
-This project was kicking off due to a referral from an individual who runs a non-profit organization that helps to lower the poverty rate in the U.S.<br/>
-Website: [Ruminate](https://ruminate.vercel.app/)
-</section>
+<img alt="Dynamic JavaScript Badge" src="https://img.shields.io/badge/javascript-black?logo=javascript&logoColor=e8f22e">
+<img alt="Dynamic TypeScript Badge" src="https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=a6b6ff">
+<img alt="Dynamic Next.js Badge" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=FFFFFF">
+<img alt="Dynamic Vite Badge" src="https://img.shields.io/badge/vite-black?logo=vite&logoColor=blue">
+<img alt="Dynamic React.js Badge" src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB">
+<img alt="Dynamic PWA" src="https://img.shields.io/badge/pwa-white?logo=pwa&logoColor=5A0FC8"><br/>
+<img alt="Dynamic HTML5 Badge" src="https://img.shields.io/badge/html5-black?logo=html5&logoColor=E34F26"><br/>
+<img alt="Dynamic CSS3 Badge" src="https://img.shields.io/badge/css3-black?logo=css3&logoColor=1572B6">
+<img alt="Dynamic Tailwind CSS Badge" src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&logoColor=06B6D4">
+<img alt="Dynamic Radix UI Badge" src="https://img.shields.io/badge/radixui-black?logo=radixui&logoColor=ffffff"><br/>
+<img alt="Dynamic React Query Badge" src="https://img.shields.io/badge/reactquery-black?logo=reactquery&logoColor=FF4154">
+<img alt="Dynamic JQuery Badge" src="https://img.shields.io/badge/jquery-black?logo=jquery&logoColor=0769AD">
+<img alt="Dynamic Axios Badge" src="https://img.shields.io/badge/axios-black?logo=axios&logoColor=ffffff">
+<img alt="Dynamic React Router Badge" src="https://img.shields.io/badge/reactrouter-black?logo=reactrouter&logoColor=CA4245"> <br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-black?logo=mongodb&logoColor=green"> 
+<img alt="Express.js" src="https://img.shields.io/badge/express-black?logo=express&logoColor=ffffff"> 
+<img alt="Prisma" src="https://img.shields.io/badge/prisma-black?logo=prisma&logoColor=ffffff"> <br/>
+<img alt="Dynamic Github Pages Badge" src="https://img.shields.io/badge/github-black?logo=github&logoColor=ffffff">
+<img alt="Dynamic Netlify Badge" src="https://img.shields.io/badge/netlify-black?logo=netlify&logoColor=00C7B7">
+<img alt="Dynamic Vercel Badge" src="https://img.shields.io/badge/vercel-black?logo=vercel&logoColor=ffffff">
+<img alt="Dynamic Firebase Badge" src="https://img.shields.io/badge/firebase-black?logo=firebase&logoColor=yellow">
+</section><br/>
 <section>
 <h1 align="center">More About Me</h1>
 You can check out my portfolio (https://www.johnjang.dev/)
@@ -77,20 +49,12 @@ function myHobbies() {
         type5: 'canoeing',
         type6: 'swimming',
     ]
-
-    const reading = [
-        book1: 'Life & Work Principles by Ray Dalio',
-        book2: 'Money, Master The Game by Tony Robbins',
-        book3: 'Inside JavaScript by (author undefined)',
-        book4: 'Surviving from Inflation by Mr. Oh',
-    ]
-
 }
 ```
 
 </section>
 <section>
-<h1 align="center">My Interests</h1>
+<h1 align="center">My Other Interests</h1>
 
 ```js
 function designWorks() {
@@ -100,13 +64,11 @@ function designWorks() {
     ]
 }
 
-function codingWorld() {
-    const coding = [
-        language1: 'JavaScript',
-        language2: 'TypeScript',
-        library: 'React.js',
-        framework: 'Next.js',
-        backend: 'Node.js',
+function techWorld() {
+    const community = [
+        one: 'TorontoJS',
+        two: 'Code and Coffee',
+        three: 'Software Network',
     ]
 }
 
@@ -122,8 +84,8 @@ function moneyMatters() {
 
 <section>
 <h2 align="center">Let's connect!</h2>
-[LinkedIn](www.linkedin.com/in/johnjang94)
+[My LinkedIn](http://www.linkedin.com/in/johnjang94)
 <footer>
-<p>That is pretty much all about me!!! Please be in-touch with me and thanks for coming-by!</p>
+<p>Come and say hey anytime 😁</p>
 </footer>
 </section>
