@@ -30,7 +30,7 @@ A software developer who is currently developing an emergency helpline (PWA appl
 </section><br/>
 <section>
 <h1 align="center">More About Me</h1>
-You can check out my portfolio (https://www.johnjang.dev/)
+You can check out [my portfolio](https://www.johnjang.dev/)
 <br/><br/>
 
 ```js
@@ -84,7 +84,7 @@ function moneyMatters() {
 
 <section>
 <h2 align="center">Let's connect!</h2>
-[My LinkedIn](http://www.linkedin.com/in/johnjang94)
+[My LinkedIn](https://www.linkedin.com/in/johnjang94/)
 <footer>
 <p>Come and say hey anytime 😁</p>
 </footer>
